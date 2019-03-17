@@ -10,7 +10,7 @@ namespace Test_Project_Soft
     {
         static void Main(string[] args)
         {
-            int x = 1;
+            Console.WriteLine();
         }
     }
 }
