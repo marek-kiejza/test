@@ -11,6 +11,7 @@ namespace Test_Project_Soft
         static void Main(string[] args)
         {
             Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
